@@ -1,2 +1,0 @@
-# fifiuro-aprendiendo-vue
-vue
